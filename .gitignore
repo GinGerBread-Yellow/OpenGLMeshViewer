@@ -1,0 +1,6 @@
+*.o
+*.dll
+.DS_Store
+a0
+.git/
+*.exe
